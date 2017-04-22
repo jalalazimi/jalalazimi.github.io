@@ -1,0 +1,19 @@
+# Site settings
+title: جلال عظیمی | Jalal Azimi
+email: Jalalazimi@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ I'm an Iranian software developer ,user interface designer and user experience designer.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://jalalazimi.me" # the base hostname & protocol for your site
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+twitter_username: Jalalazimi
+github_username:  Jalalazimi
+
+# Build settings
+markdown: kramdown
+
+
+
