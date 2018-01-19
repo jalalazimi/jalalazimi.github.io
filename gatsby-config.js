@@ -5,8 +5,8 @@ var flexbugs = require('postcss-flexbugs-fixes');
 
 module.exports = {
   siteMetadata: {
-    title: 'Fabian W. Schultz',
-    author: 'Fabian W. Schultz',
+    title: 'Jalal Azimi',
+    author: 'Jalal Azimi',
   },
   plugins: [
     {

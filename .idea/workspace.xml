@@ -2,52 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d85340dc-f465-49ee-a7e8-25b9cf1f671b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pages/hero-bw.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/covers/hero-bw.jpg" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-07-hello-world.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/_layout.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/about.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/screenshot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/avatar.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/docs.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/logo.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/main.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/angular-animate.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/angular-animate.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/angular-aria.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/angular-aria.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/angular-csp.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/angular-material.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/angular-material.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/angular-messages.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/angular-route.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/angular-touch.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/angular.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/angular.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/angular.min.js.gzip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/angular.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logo.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" afterPath="$PROJECT_DIR$/gatsby-config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -61,28 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="35" column="98" lean-forward="false" selection-start-line="35" selection-start-column="98" selection-end-line="35" selection-end-column="98" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.footer.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/styles/page.footer.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-202">
-              <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Footer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Footer.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,11 +40,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Topbar.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Topbar.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Topbar.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="50" column="24" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="50" selection-end-column="24" />
+              <caret line="50" column="24" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="50" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="71" column="11" lean-forward="false" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gatsby-config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gatsby-config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -184,6 +137,7 @@
         <option value="$PROJECT_DIR$/static/icons/twitter.svg" />
         <option value="$PROJECT_DIR$/src/components/Footer.js" />
         <option value="$PROJECT_DIR$/src/components/Topbar.js" />
+        <option value="$PROJECT_DIR$/gatsby-config.js" />
       </list>
     </option>
   </component>
@@ -223,46 +177,6 @@
             <path>
               <item name="jalalazimi.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="jalalazimi.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jalalazimi.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jalalazimi.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jalalazimi.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jalalazimi.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jalalazimi.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jalalazimi.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jalalazimi.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jalalazimi.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jalalazimi.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jalalazimi.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jalalazimi.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jalalazimi.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jalalazimi.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jalalazimi.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="covers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -309,12 +223,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516390640814</updated>
-      <workItem from="1516390642184" duration="3467000" />
+      <workItem from="1516390642184" duration="3617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3467000" />
+    <option name="totallyTimeSpent" value="3617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -327,7 +241,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -453,14 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/styles/page.nav.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
@@ -524,7 +430,7 @@
         <state relative-caret-position="184">
           <caret line="35" column="98" lean-forward="false" selection-start-line="35" selection-start-column="98" selection-end-line="35" selection-end-column="98" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -605,7 +511,31 @@
     <entry file="file://$PROJECT_DIR$/src/components/Topbar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="50" column="24" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="50" selection-end-column="24" />
+          <caret line="50" column="24" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="50" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="71" column="11" lean-forward="false" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding />
         </state>
       </provider>
